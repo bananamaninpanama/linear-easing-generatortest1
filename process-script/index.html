@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <script>
-    self.nextDefineUri = location.origin + "/c/frame.js";
+    self.nextDefineUri = location.origin + "../c/frame.js";
     const t = (async () => {
-        const t = await fetch("/c/process-script.js"),
+        const t = await fetch("../c/process-script.js"),
             e = await t.text();
         return URL.createObjectURL(new Blob([e], {
             type: "text/javascript"
