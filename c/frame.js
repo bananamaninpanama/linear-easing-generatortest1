@@ -1,5 +1,5 @@
 const t = (async () => {
-    const t = await fetch("/c/process-script.js"),
+    const t = await fetch("process-script.js"),
         e = await t.text();
     return URL.createObjectURL(new Blob([e], {
         type: "text/javascript"
