@@ -1,6 +1,6 @@
 # THIS WAS A TEST REPO AND THE ORIGINAL FORK I MADE FROM [LEG](https://github.com/jakearchibald/linear-easing-generator) BEFORE UNFORKING IT BECAUSE IT WAS BROKEN.
 # THIS WEBSITE WORKS, BUT IT HAS AN IFRAME AND STUFF SO I AM EDITING IT TO NOT HAVE THAT
-# [HERE IS THE TRUE ONE THAT I AM WORKING ON](https://bananamaninpanama.github.io/linear-easing-generator/)
+# [HERE IS THE TRUE ONE THAT I AM WORKING ON](https://github.com/bananamaninpanama/linear-easing-generator)
 
 
 # [linear() easing generator](https://bananamaninpanama.github.io/linear-easing-generator/)
