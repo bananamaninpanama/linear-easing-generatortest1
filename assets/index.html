@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <script>
-  self.nextDefineUri = /*location.origin +*/ "/*./*/frame.js";
+  self.nextDefineUri = /*location.origin +*/ "./frame.js";
   const t = (async () => {
     const t = await fetch("./process-script.js")
       , e = await t.text();
