@@ -30,8 +30,12 @@ Which you can use in animations and transitions:
 ## Running locally
 
 ```
-npm i
-npm run dev
+go to the original
+install wsl or something if you are running windows
+install git, nodejs, and nvm
+clone the repo in the wsl system with git or sudo or smth
+install version 20 of nodejs using nvm
+run it how it says to run it in the original website, but after it builds, edit a part of script.js that defines where the iframe class is, and make it a relative path instead of an absolute one
 ```
 
 
