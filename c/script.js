@@ -14,13 +14,13 @@ setmanifest({
     "background_color": "#fff",
     "theme_color": "#009dff",
     "icons": [{
-            "src": "/c/maskable-icon.png",
+            "src": "./images/maskable-icon.png",
             "type": "image/png",
             "sizes": "1075x1075",
             "purpose": "maskable"
         },
         {
-            "src": "/c/social-icon.png",
+            "src": "./images/social-icon.png",
             "type": "image/png",
             "sizes": "804x804"
         }
