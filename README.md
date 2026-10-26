@@ -1,3 +1,8 @@
+# THIS WAS A TEST REPO AND THE ORIGINAL FORK I MADE FROM [LEG](https://github.com/jakearchibald/linear-easing-generator) BEFORE UNFORKING IT BECAUSE IT WAS BROKEN.
+# THIS WEBSITE WORKS, BUT IT HAS AN IFRAME AND STUFF SO I AM EDITING IT TO NOT HAVE THAT
+# [HERE IS THE TRUE ONE THAT I AM WORKING ON](https://bananamaninpanama.github.io/linear-easing-generator/)
+
+
 # [linear() easing generator](https://bananamaninpanama.github.io/linear-easing-generator/)
 
 For a long time, easing on the web was limited to `cubic-bezier`, meaning you couldn't do easings like bounce, spring, or elastic without JavaScript. But now `linear()` is here! Well, [almost here](https://caniuse.com/mdn-css_types_easing-function_linear-function).
