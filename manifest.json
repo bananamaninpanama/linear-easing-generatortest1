@@ -1,1 +1,24 @@
-{"name":"linear() easing generator","short_name":"linear()","start_url":"/","display":"standalone","orientation":"any","background_color":"#fff","theme_color":"#009dff","icons":[{"src":"/c/maskable-icon-0b5b27ab.png","type":"image/png","sizes":"1075x1075","purpose":"maskable"},{"src":"/c/social-icon-f058cd8f.png","type":"image/png","sizes":"804x804"}],"description":"Generate linear() easings from JavaScript and SVG","lang":"en"}
+{
+   "name":"linear() easing generator",
+   "short_name":"linear()",
+   "start_url":"/",
+   "display":"standalone",
+   "orientation":"any",
+   "background_color":"#fff",
+   "theme_color":"#009dff",
+   "icons":[
+      {
+         "src":"/c/maskable-icon-0b5b27ab.png",
+         "type":"image/png",
+         "sizes":"1075x1075",
+         "purpose":"maskable"
+      },
+      {
+         "src":"/c/social-icon-f058cd8f.png",
+         "type":"image/png",
+         "sizes":"804x804"
+      }
+   ],
+   "description":"Generate linear() easings from JavaScript and SVG",
+   "lang":"en"
+}
